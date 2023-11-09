@@ -16,7 +16,7 @@ The problem: making a .bat file would be easy but my antivirus makes this not be
 directory and enter the desired values. In this directory there are different shortcuts and instructions on how to use it. I included some preset ones (current threshold lookup,
 OFF, 90, 80, 70) and a script that you enter the values manualy. Some are quiet, some time out and some wait for the user to exit. Slovenian and english versions are available.
 
-Compatibilty: ¯\_(ツ)_/¯ no idea what its compatible with. With my limited testing i assue that everything from XX30 series ThinkPads upto the latest ThinkPad computers are
+Compatibilty: ¯\_(ツ)_/¯ no idea what its compatible with. With my limited testing i assmue that everything from XX30 series ThinkPads upto the latest ThinkPad computers are
 supported.
 
 Tested and working on: X230, T530, T570, X280, P51, T16 gen1 Intel,
